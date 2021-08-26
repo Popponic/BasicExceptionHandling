@@ -1,0 +1,5 @@
+﻿  ExceptionHandling.cpp
+C:\Users\OEM\Desktop\105 HOME CPP\ExceptionHandling\ExceptionHandling\ExceptionHandling.cpp(19,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\OEM\Desktop\105 HOME CPP\ExceptionHandling\ExceptionHandling\ExceptionHandling.cpp(50,19): warning C4101: 'i': unreferenced local variable
+C:\Users\OEM\Desktop\105 HOME CPP\ExceptionHandling\ExceptionHandling\ExceptionHandling.cpp(53,21): warning C4101: 'c': unreferenced local variable
+  ExceptionHandling.vcxproj -> C:\Users\OEM\Desktop\105 HOME CPP\ExceptionHandling\Debug\ExceptionHandling.exe
